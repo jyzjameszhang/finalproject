@@ -15,7 +15,7 @@ a {
     left: 0%;
     padding: 8px;
     position: absolute;
-    transform: translateY(-100%);
+    transform: translateY(-400%);
     transition: transform 0.3s;
 }
 
