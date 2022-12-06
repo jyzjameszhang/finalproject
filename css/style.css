@@ -11,7 +11,7 @@ a {
 
 .paolettiCSS {
     background-image:  linear-gradient(brown 1px, transparent 1px), linear-gradient(to right, brown 1px, white 1px);
-    background-size: 20px 20px;
+    background-size: 100px 100px;
 }
 
 .dardenCSS {
