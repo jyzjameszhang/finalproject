@@ -1,7 +1,11 @@
 .currentLink {
-    color: red;
+    color: green;
     font-weight: bold;
     font-style: italic;
+}
+
+a {
+    background-color: white;
 }
 
 .paolettiCSS {
