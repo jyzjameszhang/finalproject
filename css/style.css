@@ -15,7 +15,7 @@ a {
     left: 0%;
     padding: 8px;
     position: absolute;
-    transform: translateY(-400%);
+    transform: translateY(-500%);
     transition: transform 0.3s;
 }
 
@@ -303,4 +303,25 @@ li {
         width: 80%;
         height: 80%;
     }
+}
+
+.vidDiv {
+    display: flex;
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.vidDiv iframe {
+    width: 500px;
+    height: 300px;
+}
+
+.vidDiv .desc {
+    width: 300px;
+    height: 300px;
+    text-align: center;  
+    background-color: white;
 }
